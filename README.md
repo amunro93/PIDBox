@@ -1,6 +1,7 @@
 # PIDBox
 Group project making a traditional PIDBox with a twist. 
 
+## Ideal Outcome 
 
 ## Onshape
 ### Updates
@@ -15,5 +16,5 @@ Group project making a traditional PIDBox with a twist.
 #### Images 
 
 ## Final 
-### Images 
-### Reflection 
+#### Images
+#### Reflection 
