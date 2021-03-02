@@ -14,6 +14,7 @@ Group project making a traditional PIDBox with a twist.
 ## Code 
 ### Updates 
 #### Images 
+<img src="https://github.com/mbjones73/Eng-3-CAD/blob/main/images/wheel.png?raw=true" alt="The Base" width="389">
 ### Completed Projects 
 #### Images 
 
