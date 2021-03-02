@@ -3,7 +3,7 @@ elapsedTime = currentTime - previousTime;
 error = setPoint - input;
 cumError += error * elapsedTime;
 rateError = elapsedTime;
-output = Kp * error + Ki * cumError + Kd   //defininig my keys
+output = Kp * error + Ki * cumError + Kd   #defininig my keys
 LastError = error;
 previousTime = currentTime;
 
@@ -16,13 +16,13 @@ double kd = 1
 
 
 
-    //This is where the you control it by the PID value
+    #This is where the you control it by the PID value
 
     
 
 
 
 
-    //PID output goes here when I learn how
+    #PID output goes here when I learn how
  
        
