@@ -10,7 +10,7 @@ Group project making a traditional PIDBox with a twist.
 
 (FRI,MAR 5) This is the shape of are box without any parts.
 
-(Thu,MAR 25) This is are wheel. 
+(THU,MAR 25) This is are wheel. 
 
 #### Images 
 
