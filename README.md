@@ -6,8 +6,14 @@ Group project making a traditional PIDBox with a twist.
 ## Onshape
 
 ### Updates
-(WED,FEB 14) This will be the shape of are sides for the PIDBox.  
+(WED,FEB 14) These shapes will make up the shape of are PIDBox. 
+
+(FRI,MAR 5) This is the shape of are box without any parts.
+
+(Thu,MAR 25) This is are wheel. 
+
 #### Images 
+
 ### Completed Projects  
 ### Images
 
